@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sdnpublishing.github.io/sdn-publishing/sitemap.xml
+Sitemap: https://sdnpublishing.github.io/sdn-publishing/sitemap-index.xml
