@@ -1,0 +1,5 @@
+{
+ "endpoint": "",
+ "note": "endpoint = Worker URL to enable subscribe forms on all sites; go = same Worker URL to switch every Amazon link to geo-routed tracked redirects. Both may be the same URL.",
+ "go": ""
+}
